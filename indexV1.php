@@ -14,7 +14,7 @@
 		<script src="js/navbarclock.js"></script>
     </head>
 		<body>
-			<div class="topmost container" style="margin-top:8em;">
+			<div class="topmost container">
 				<div class="col-md-6">
 					<div class="panel panel-primary">
 						<div class="panel-heading">
