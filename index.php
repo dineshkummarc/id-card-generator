@@ -26,6 +26,9 @@ if(!file_exists($f)){
     </head>
 		<body onload="startTime()">
 			<nav class="navbar-inverse" role="navigation">
+				<a href="https://www.facebook.com/MrNiemand03" target="_blank">
+					<img src="img/niemand.png" class="hederimg">
+				</a>
 				<div id="clockdate">
 					<div class="clockdate-wrapper">
 						<div id="clock"></div>
