@@ -16,7 +16,7 @@ fclose ($handle);
 
 $iddir = 'cards';
 $text = ucwords($_POST['visitornewm']); // Participant Name
-$profileimage = 'img/blend.jpg';   // QT Code Image
+$profileimage = 'img/profile.jpg';   // QT Code Image
 $font_size = 13;               // Font size is in pixels.
 $font_file = 'img/fb.otf';         // path to your font file
 $img = 'final.png';            // path to temporary image
